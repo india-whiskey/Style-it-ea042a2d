@@ -1,0 +1,29 @@
+table,
+td {
+    border: 1px solid #333;
+    border-color: red
+   ;
+}
+
+thead,
+tfoot {
+    background-color: black;
+    color: #fff;
+}
+body{	
+	background-color: #333
+
+
+}
+table{
+	background-color: black
+}
+th{
+	color: green
+}
+td{
+	color: green
+}
+h1{
+	color: green
+}
